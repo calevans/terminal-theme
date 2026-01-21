@@ -9,7 +9,7 @@
             "email": "cal@calevans.com"
         }
     ],
-    "require": {},
+    "require": [],
     "extra": {
         "staticforge": {
             "theme": {
@@ -17,5 +17,6 @@
                 "source": "."
             }
         }
-    }
+    },
+    "version": "1.0.0"
 }
