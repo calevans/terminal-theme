@@ -1,0 +1,21 @@
+{
+    "name": "calevans/terminal-theme",
+    "type": "staticforge-theme",
+    "description": "A terminal-style theme for StaticForge",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cal Evans",
+            "email": "cal@calevans.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "staticforge": {
+            "theme": {
+                "name": "terminal",
+                "source": "."
+            }
+        }
+    }
+}
