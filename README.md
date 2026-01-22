@@ -9,7 +9,7 @@ This theme is designed to be installed via Composer using the `eicc/staticforge-
 To install this theme into your StaticForge project, run:
 
 ```bash
-composer require calevans/terminal-theme
+composer require calevans/staticforge-theme-terminal
 ```
 
 The installer will automatically detect the package type and install the theme files into:

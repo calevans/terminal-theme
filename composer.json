@@ -1,5 +1,5 @@
 {
-    "name": "calevans/terminal-theme",
+    "name": "calevans/staticforge-theme-terminal",
     "type": "staticforge-theme",
     "description": "A terminal-style theme for StaticForge",
     "license": "MIT",
@@ -14,7 +14,7 @@
         "staticforge": {
             "theme": {
                 "name": "terminal",
-                "source": "."
+                "source": "templates"
             }
         }
     },
